@@ -1,0 +1,6 @@
+pandas 
+numpy 
+idx2numpy
+tensorflow
+matplotlib
+regex
